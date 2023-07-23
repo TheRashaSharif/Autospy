@@ -1,4 +1,4 @@
-# Autospy deleted files recovery
+# Autopsy deleted files recovery
 
 <h1> This is an exercise provided by the TryHackMe DFIR course </h1>
 
@@ -12,7 +12,7 @@ Objective: Find the deleted files and recover the txt file to find what is insid
 <h2>Tools/ Utilities Used</h2>
 
 - <b> Windows Virtual Machine</b>
-- <b>Autospy forensics tool</b>
+- <b>Autopsy forensics tool</b>
 
 Tasks:
 
